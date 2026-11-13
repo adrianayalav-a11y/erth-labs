@@ -1,0 +1,4 @@
+rock,excel_average_density_g_cm3,excel_formula
+basalt,3.09377886557887,SUM(B4:B13/C4:C13)/10
+granite,2.7353658008658,SUM(F4:F13/G4:G13)/10
+peridotite,3.33147474747475,SUM(J4:J13/K4:K13)/10
