@@ -2,7 +2,7 @@
 
 Python reproduction of ERTH 2001 Lab 2, originally completed as an Excel workbook of GPS position time series. The notebook walks through the lab step for step: north and east components at five California stations, a five-year rate in each direction, a horizontal speed from the Pythagorean theorem, velocity vectors, and a map of three neighboring stations along the San Andreas system. A short extra section at the end compares the lab's two-endpoint rate with a least-squares fit over the same window; that comparison is not part of the original lab.
 
-The notebook explains the concept of each step. It does not include answers to the lab's graded questions.
+The notebook explains the concept of each step: every code cell has a plain-language introduction before it and a short "what this shows" after it. It does not include answers to the lab's graded questions.
 
 AI used: Python notebook built with help from an AI coding agent.
 
