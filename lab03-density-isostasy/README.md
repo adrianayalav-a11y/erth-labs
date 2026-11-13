@@ -1,6 +1,6 @@
 # Lab 3 — Density and Isostasy
 
-Python reproduction of ERTH 2001 Lab 3, originally completed as an Excel workbook plus written calculations. The notebook walks through the lab step for step: average densities of basalt, granite, and peridotite from mass and volume samples; a plot of stranded-beach height versus age at Hudson Bay, with linear and quadratic fits to the postglacial rebound; and a floating-block (Airy-style) calculation of how high oceanic and continental crust sit in the mantle, compared with Earth's bimodal topography, and of how thick the crust is under the Andes. A short extra section compares the spreadsheet's mean-of-ratios density with the bulk ratio of total mass to total volume; that comparison is not part of the original lab.
+Python reproduction of ERTH 2001 Lab 3, originally completed as an Excel workbook plus written calculations. The notebook walks through the lab step for step: average densities of basalt, granite, and peridotite from mass and volume samples; a plot of stranded-beach height versus age at Hudson Bay, with linear and quadratic fits to the postglacial rebound; and a floating-block (Airy-style) calculation of how high oceanic and continental crust sit in the mantle, compared with Earth's bimodal topography, and of how thick the crust is under the Andes. Part 3 follows the worked calculations, using the Part 1 averages rounded to one decimal place (3.1, 2.7, and 3.3 g/cm³) and the same intermediate rounding. A short extra section compares the spreadsheet's mean-of-ratios density with the bulk ratio of total mass to total volume; that comparison is not part of the original lab.
 
 The notebook explains the concept of each step: every code cell has a plain-language introduction before it and a short "what this shows" after it. It does not include answers to the lab's graded questions.
 
@@ -12,7 +12,7 @@ AI used: Python notebook built with help from an AI coding agent.
 - `lab03_density_isostasy.html` — a standalone HTML export of the executed notebook
 - `data/rock_samples.csv` — ten mass-and-volume samples each of basalt, granite, and peridotite
 - `data/hudson_bay_beaches.csv` — height (m) and age (yr BP) of 19 stranded beaches
-- `data/excel_reference.xlsx` — the three average-density values from the completed spreadsheet, used by the check cell
+- `data/excel_reference.xlsx` — the three average-density values from the completed spreadsheet, used by the check cell (Part 3 is checked against hard-coded worked-calculation values, not this file)
 - `data/excel_reference.csv` — the same reference values as a CSV
 - `figures/` — PNG copies of the plots
 - `requirements.txt` — Python dependencies
