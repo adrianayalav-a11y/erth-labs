@@ -1,0 +1,6 @@
+station,station_name,reference_frame,latitude_deg,longitude_deg,elevation_m,source_file,header_begin_date,header_end_date,series_start,series_end,n_samples,north_east_description,notes
+BEMT,BEMT_SCGN_CS2001,NAM08,34.0005342776,,,BEMT.pbo.nam08.pos,2001-11-15,2018-06-14,2006-01-06,2018-06-14,4543,North/East 30-day average (mm),Longitude and elevation were not present in this station's workbook header.
+SBCC,SBCC_SCGN_CS1999,NAM08,33.5530001805,-117.6614859341,88.68909,SBCC.pbo.nam08.pos,1999-11-08,2018-06-16,2006-01-01,2018-06-16,4550,North/East 30-day average (mm),
+CAND,CAND_SCGN_CN1999,NAM08,35.939352469,-120.4336965158,568.40163,CAND.pbo.nam08.pos,1999-08-20,2018-06-17,2004-01-01,2018-06-17,5260,North/East 30-day average (mm),
+CARH,CARH_SCGN_CN2001,NAM08,35.8883845291,-120.4308213586,480.26621,CARH.pbo.nam08.pos,2001-08-09,2018-06-17,2004-01-01,2018-06-17,5280,North/East 30-day average (mm),
+P294,AlcaldeHlsCN2006,NAM08,36.1232366009,-120.4398823294,509.41014,P294.pbo.nam08.pos,2006-05-18,2018-10-01,2006-05-18,2018-04-26,4362,daily North/East (mm),
